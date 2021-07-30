@@ -33,7 +33,7 @@ body {
 header {
     height: 60vh;
     width: 100vw;
-    background-image: url('/images/desktop/image-header.jpg');
+    background-image: url('./images/desktop/image-header.jpg');
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -151,7 +151,7 @@ main {
 
 .transform {
     padding: 0;
-    background-image: url('/images/desktop/image-transform.jpg');
+    background-image: url('./images/desktop/image-transform.jpg');
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -160,7 +160,7 @@ main {
 
 .stand-out {
     padding: 0;
-    background-image: url('/images/desktop/image-stand-out.jpg');
+    background-image: url('./images/desktop/image-stand-out.jpg');
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -170,7 +170,7 @@ main {
 div.graphic-design {
     padding: 0;
     width: 50vw;
-    background-image: url('/images/desktop/image-graphic-design.jpg');
+    background-image: url('./images/desktop/image-graphic-design.jpg');
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -197,7 +197,7 @@ div.graphic-design {
 div.photography {
     padding: 5% 0;
     width: 50vw;
-    background-image: url('/images/desktop/image-photography.jpg');
+    background-image: url('./images/desktop/image-photography.jpg');
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -274,25 +274,25 @@ section#testimonials {
             display: grid;
             grid-auto-flow: column;
             .milkbottles {
-                background-image: url('/images/desktop/image-gallery-milkbottles.jpg');
+                background-image: url('./images/desktop/image-gallery-milkbottles.jpg');
                 background-position: center center;
                 background-size: cover;
                 background-repeat: no-repeat;
             }
             .lemon {
-                background-image: url('/images/desktop/image-gallery-orange.jpg');
+                background-image: url('./images/desktop/image-gallery-orange.jpg');
                 background-position: center center;
                 background-size: cover;
                 background-repeat: no-repeat;
             }
             .cone {
-                background-image: url('/images/desktop/image-gallery-cone.jpg');
+                background-image: url('./images/desktop/image-gallery-cone.jpg');
                 background-position: center center;
                 background-size: cover;
                 background-repeat: no-repeat;
             }
             .cubes {
-                background-image: url('/images/desktop/image-gallery-sugarcubes.jpg');
+                background-image: url('./images/desktop/image-gallery-sugarcubes.jpg');
                 background-position: center center;
                 background-size: cover;
                 background-repeat: no-repeat;
